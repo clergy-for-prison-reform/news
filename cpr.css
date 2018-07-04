@@ -21,6 +21,11 @@ a:hover {
     background-color: transparent;
     text-decoration: underline;
 }
+.bluebook {
+   color: #420DAB
+   background-color: transparent;
+   font-family: "Georgia";
+}
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
