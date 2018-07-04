@@ -1,0 +1,27 @@
+body {
+    margin: 7%;
+    font-family: "menlo";
+}
+mark { 
+    background-color: #BCA9F5;
+    color: #000000;
+}
+a:link {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:visited {
+    color: #dbd9e1;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover {
+    color: #dbd9e1;
+    background-color: transparent;
+    text-decoration: underline;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
