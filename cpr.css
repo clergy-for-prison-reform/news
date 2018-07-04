@@ -21,7 +21,7 @@ a:hover {
     background-color: transparent;
     text-decoration: underline;
 }
-.bluebook {
+p.bluebook {
    color: #420DAB
    background-color: transparent;
    font-family: "Georgia";
