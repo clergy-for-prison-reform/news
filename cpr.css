@@ -25,6 +25,7 @@ p.bluebook {
    color: #1B36EB;
    background-color: #dadee5;
    font-family: "Georgia";
+   text-align: right;
 }
 table, th, td {
     border: 1px solid black;
